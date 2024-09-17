@@ -57,6 +57,9 @@ No parameters are required for this template.
 
 4. Once the stack is created, navigate to the AWS FIS Console to start the experiment.
 
+###  Resources
+https://catalog.us-east-1.prod.workshops.aws/workshops/eb89c4d5-7c9a-40e0-b0bc-1cde2df1cb97/en-US/environment/bring-your-own
+
 ### Clean Up
 
 To delete the stack and all related resources:
